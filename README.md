@@ -1,4 +1,4 @@
-Heuy , Welcome to my github repo 
+Hey , Welcome to my github repo 
 This is for trial 
 Its Dec 19 2025
 I am a freelancer who is comitted to his work , In my field i would like to take a deep dive into ML 
